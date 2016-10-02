@@ -35,5 +35,4 @@ Reboot...
 
 ## Then
 
-New Way To the World
-
+[New Way To the World](https://github.com/huhuanming/zach-hu.me/issues) 
